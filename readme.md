@@ -16,7 +16,7 @@ In this markdown file, you can also use LaTeX syntax:
 E.g.:
 The aim of the implemented model is to minimize the overall assigned ranks of students and groups to topics:
 
-$$ \sum\limits_{i \in \mathcal{N}}\sum\limits_{t \in \mathcal{T}} (r^s_{it})^2x^s_{it}+\sum\limits_{i \in \mathcal{G}}\sum\limits_{t \in \mathcal{T}} (r^g_{it})^2 \mathcal{K}_g x^g_{it} $$
+$ \sum\limits_{i \in \mathcal{N}}\sum\limits_{t \in \mathcal{T}} (r^s_{it})^2x^s_{it}+\sum\limits_{i \in \mathcal{G}}\sum\limits_{t \in \mathcal{T}} (r^g_{it})^2 \mathcal{K}_g x^g_{it} $
 
 ## How to setup and run the project ##
 This is a very relevant part, please use this section to let your supervisor know how to setup the project and how to replicate the computational study
