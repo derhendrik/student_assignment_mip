@@ -1,0 +1,77 @@
+{
+  "supervisors": [
+    {
+      "id": 1,
+      "name": "Ca.",
+      "topic_ids": [
+        1
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 2,
+      "name": "Ba.",
+      "topic_ids": [
+        2
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 3,
+      "name": "Gi.",
+      "topic_ids": [
+        3
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 4,
+      "name": "An.",
+      "topic_ids": [
+        4
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 5,
+      "name": "Ch.",
+      "topic_ids": [
+        5,
+        6
+      ],
+      "min_topics": 2,
+      "max_topics": 2
+    },
+    {
+      "id": 6,
+      "name": "Ma.",
+      "topic_ids": [
+        7
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 7,
+      "name": "Ma2.",
+      "topic_ids": [
+        8
+      ],
+      "min_topics": 1,
+      "max_topics": 1
+    },
+    {
+      "id": 8,
+      "name": "He.",
+      "topic_ids": [
+        9,10
+      ],
+      "min_topics": 2,
+      "max_topics": 2
+    }
+  ]
+}
