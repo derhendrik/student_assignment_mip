@@ -19,6 +19,8 @@ The aim of the implemented model is to minimize the overall assigned ranks of st
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
+$$\sum\limits_{i \in \mathcal{N}}\sum\limits_{t \in \mathcal{T}} (r^s_{it})^2x^s_{it}+\sum\limits_{i \in \mathcal{G}}\sum\limits_{t \in \mathcal{T}} (r^g_{it})^2 \mathcal{K}_g x^g_{it}$$
+
 ## How to setup and run the project ##
 This is a very relevant part, please use this section to let your supervisor know how to setup the project and how to replicate the computational study
 You can also reference files of your project such as the [requirements-file](requirements.txt) or the [data folder](data) and its contents, e.g. [student file](data/students.json).
