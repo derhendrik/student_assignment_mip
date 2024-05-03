@@ -71,7 +71,7 @@ def optimize(students, groups, supervisors, topics):
 
     x_st_students = model.addVars(students, topics, vtype=GRB.BINARY, name="x_st_students")
 
-    # TODO: create the binary variables "x_gt_students"
+    # TODO: create the binary variables "x_gt_groups"
     #
 
     modes = [1, 2]

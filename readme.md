@@ -9,6 +9,9 @@ The learning goals are as follows:
 a `requirements.txt` file for their supervisor
 - Discussion of best-practices and alternative approaches (in-class session)
 
+The parts that are to be completed by the students can be found in the `main_for_students.py`-file and are labeled with `# TODO`.
+The ToDos can easily be accessed in PyCharm via the ToDo-toolbar.
+
 ## MIP ##
 You can describe your project (or mixed-integer program) in more detail here, if you want to. This is not really necessary, however what is nice:
 In this markdown file, you can also use LaTeX syntax:
