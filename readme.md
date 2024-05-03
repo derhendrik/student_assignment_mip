@@ -16,9 +16,6 @@ In this markdown file, you can also use LaTeX syntax:
 E.g.:
 The aim of the implemented model is to minimize the overall assigned ranks of students and groups to topics:
 
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
 $$\sum\limits_{i \in \mathcal{N}}\sum\limits_{t \in \mathcal{T}} (r^s_{it})^2x^s_{it}+\sum\limits_{i \in \mathcal{G}}\sum\limits_{t \in \mathcal{T}} (r^g_{it})^2 \mathcal{K}\_g x^g\_{it}$$
 
 ## How to setup and run the project ##
