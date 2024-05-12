@@ -1,0 +1,2427 @@
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:31:42 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:32:53 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:34:06 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:37:03 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:37:11 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 42 rows, 160 columns and 351 nonzeros
+Model fingerprint: 0x536c21c5
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 16 rows and 8 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 152 columns, 307 nonzeros
+Variable types: 0 continuous, 152 integer (152 binary)
+
+Root relaxation: objective 7.300000e+01, 30 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     403.0000000   73.00000  81.9%     -    0s
+H    0     0                     326.0000000   73.00000  77.6%     -    0s
+H    0     0                     145.0000000   73.00000  49.7%     -    0s
+H    0     0                      94.0000000   73.00000  22.3%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Gomory: 1
+  Cover: 5
+
+Explored 1 nodes (30 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 6: 92 94 145 ... 690
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:37:24 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 42 rows, 160 columns and 351 nonzeros
+Model fingerprint: 0xdb6ed1b3
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 18 rows and 19 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:38:35 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 43 rows, 170 columns and 371 nonzeros
+Model fingerprint: 0x92271863
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 460.0000000
+Presolve removed 18 rows and 19 columns
+Presolve time: 0.00s
+Presolved: 25 rows, 151 columns, 302 nonzeros
+Variable types: 0 continuous, 151 integer (151 binary)
+
+Root relaxation: objective 7.200000e+01, 27 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    6  460.00000   72.00000  84.3%     -    0s
+H    0     0                     395.0000000   72.00000  81.8%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    6   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (27 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 4: 90 98 395 460 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:38:51 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:53:15 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 42 rows, 170 columns and 370 nonzeros
+Model fingerprint: 0xb33bfa58
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 609.0000000
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 28 rows, 164 columns, 332 nonzeros
+Variable types: 0 continuous, 164 integer (164 binary)
+
+Root relaxation: objective 7.133333e+01, 35 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   71.33333    0    9  609.00000   71.33333  88.3%     -    0s
+H    0     0                     599.0000000   71.33333  88.1%     -    0s
+H    0     0                     132.0000000   71.33333  46.0%     -    0s
+H    0     0                     112.0000000   71.33333  36.3%     -    0s
+H    0     0                      90.0000000   71.33333  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 112 132 ... 609
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 11:53:27 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:31:21 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.01s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:32:45 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:33:22 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:33:31 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 42 rows, 170 columns and 370 nonzeros
+Model fingerprint: 0xb33bfa58
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 609.0000000
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 28 rows, 164 columns, 332 nonzeros
+Variable types: 0 continuous, 164 integer (164 binary)
+
+Root relaxation: objective 7.133333e+01, 35 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   71.33333    0    9  609.00000   71.33333  88.3%     -    0s
+H    0     0                     599.0000000   71.33333  88.1%     -    0s
+H    0     0                     132.0000000   71.33333  46.0%     -    0s
+H    0     0                     112.0000000   71.33333  36.3%     -    0s
+H    0     0                      90.0000000   71.33333  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 112 132 ... 609
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:34:17 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:35:01 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:35:16 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:38:06 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:38:25 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0x3d6126f8
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: infeasible, 38 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    0s
+
+Explored 1 nodes (38 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:39:44 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:40:23 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc4b6104f
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: infeasible, 30 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    0s
+
+Explored 1 nodes (30 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:40:33 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0x3d6126f8
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: infeasible, 38 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    0s
+
+Explored 1 nodes (38 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:41:03 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:41:26 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 41 rows, 160 columns and 350 nonzeros
+Model fingerprint: 0xc63f64ac
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 154 columns, 312 nonzeros
+Variable types: 0 continuous, 154 integer (154 binary)
+
+Root relaxation: objective 7.300000e+01, 36 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   73.00000    0    6          -   73.00000      -     -    0s
+H    0     0                     690.0000000   73.00000  89.4%     -    0s
+H    0     0                     138.0000000   73.00000  47.1%     -    0s
+H    0     0                      92.0000000   73.00000  20.7%     -    0s
+
+Cutting planes:
+  Cover: 1
+
+Explored 1 nodes (36 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 92 138 690 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.200000000000e+01, best bound 9.200000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:43:19 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:43:32 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 43 rows, 160 columns and 352 nonzeros
+Model fingerprint: 0x5b60c435
+Variable types: 0 continuous, 160 integer (160 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 20 rows and 34 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:43:56 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0xebe987ba
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 7.200000e+01, 24 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   72.00000    0    8  479.00000   72.00000  85.0%     -    0s
+H    0     0                     394.0000000   72.00000  81.7%     -    0s
+H    0     0                      98.0000000   72.00000  26.5%     -    0s
+H    0     0                      96.0000000   72.00000  25.0%     -    0s
+H    0     0                      90.0000000   72.00000  20.0%     -    0s
+     0     0   72.00000    0    8   90.00000   72.00000  20.0%     -    0s
+
+Explored 1 nodes (24 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 90 96 98 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+01, best bound 9.000000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:45:24 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 44 rows, 170 columns and 372 nonzeros
+Model fingerprint: 0x9a2621e4
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 479.0000000
+Presolve removed 20 rows and 35 columns
+Presolve time: 0.00s
+Presolved: 24 rows, 135 columns, 270 nonzeros
+Variable types: 0 continuous, 135 integer (135 binary)
+
+Root relaxation: objective 6.300000e+01, 21 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   63.00000    0    2  479.00000   63.00000  86.8%     -    0s
+H    0     0                     242.0000000   63.00000  74.0%     -    0s
+H    0     0                      92.0000000   63.00000  31.5%     -    0s
+H    0     0                      90.0000000   63.00000  30.0%     -    0s
+H    0     0                      89.0000000   63.00000  29.2%     -    0s
+     0     0   88.00000    0    6   89.00000   88.00000  1.12%     -    0s
+
+Cutting planes:
+  Gomory: 1
+
+Explored 1 nodes (27 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 89 90 92 ... 479
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:45:35 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 42 rows, 170 columns and 370 nonzeros
+Model fingerprint: 0x5893cd02
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 609.0000000
+Presolve removed 14 rows and 6 columns
+Presolve time: 0.00s
+Presolved: 28 rows, 164 columns, 332 nonzeros
+Variable types: 0 continuous, 164 integer (164 binary)
+
+Root relaxation: objective 6.266667e+01, 31 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   62.66667    0   12  609.00000   62.66667  89.7%     -    0s
+H    0     0                     519.0000000   62.66667  87.9%     -    0s
+H    0     0                      92.0000000   62.66667  31.9%     -    0s
+H    0     0                      90.0000000   62.66667  30.4%     -    0s
+H    0     0                      89.0000000   81.00000  8.99%     -    0s
+     0     0   82.66667    0   15   89.00000   82.66667  7.12%     -    0s
+     0     0   82.66667    0    9   89.00000   82.66667  7.12%     -    0s
+H    0     0                      87.0000000   83.00000  4.60%     -    0s
+     0     0   87.00000    0   10   87.00000   87.00000  0.00%     -    0s
+
+Cutting planes:
+  Gomory: 3
+  Cover: 7
+  Clique: 1
+  RLT: 4
+
+Explored 1 nodes (71 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 87 89 90 ... 609
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.700000000000e+01, best bound 8.700000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 13:55:47 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "one topic per student[Studi_1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:01:45 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:08:22 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:19:26 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 53 rows, 180 columns and 410 nonzeros
+Model fingerprint: 0xa279ad28
+Variable types: 0 continuous, 180 integer (180 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 27 rows, 170 columns, 340 nonzeros
+Variable types: 0 continuous, 170 integer (170 binary)
+
+Root relaxation: infeasible, 28 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    0s
+
+Explored 1 nodes (28 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:20:10 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:21:43 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:24:15 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:25:08 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:26:54 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:40:57 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 14:41:03 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 16:35:59 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 16:37:18 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Thu May  2 16:40:45 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:24:33 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:37:35 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:38:38 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:39:45 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:40:00 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:40:06 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:40:14 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:41:37 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May  5 19:41:44 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:23:36 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:24:23 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:24:41 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:31:42 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:32:11 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Mon May  6 14:52:12 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 09:40:54 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 11:32:56 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 11:34:25 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 11:37:18 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.02 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 11:40:32 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%
+
+Gurobi 11.0.1 (mac64[arm]) logging started Wed May  8 11:40:38 2024
+
+Set parameter LogFile to value "my_log_file"
+
+Gurobi 11.0.1 (mac64[arm]) logging started Sun May 12 16:39:39 2024
+
+Set parameter LogFile to value "my_log_file"
+Warning: constraint name "used topics - number of students balance constraint[1]" has a space
+Gurobi Optimizer version 11.0.1 build v11.0.1rc0 (mac64[arm] - Darwin 23.4.0 23E224)
+
+CPU model: Apple M1 Pro
+Thread count: 8 physical cores, 8 logical processors, using up to 8 threads
+
+Optimize a model with 52 rows, 170 columns and 390 nonzeros
+Model fingerprint: 0x8621a4dd
+Variable types: 0 continuous, 170 integer (170 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 1072.0000000
+Presolve removed 26 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 26 rows, 160 columns, 320 nonzeros
+Variable types: 0 continuous, 160 integer (160 binary)
+
+Root relaxation: objective 6.800000e+01, 26 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   68.00000    0    8 1072.00000   68.00000  93.7%     -    0s
+H    0     0                     127.0000000   68.00000  46.5%     -    0s
+H    0     0                     100.0000000   68.00000  32.0%     -    0s
+H    0     0                      95.0000000   68.00000  28.4%     -    0s
+H    0     0                      92.0000000   68.00000  26.1%     -    0s
+     0     0   84.00000    0    8   92.00000   84.00000  8.70%     -    0s
+     0     0   84.00000    0    4   92.00000   84.00000  8.70%     -    0s
+H    0     0                      89.0000000   84.00000  5.62%     -    0s
+
+Cutting planes:
+  Cover: 2
+
+Explored 1 nodes (44 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 8: 89 92 95 ... 1072
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.900000000000e+01, best bound 8.900000000000e+01, gap 0.0000%

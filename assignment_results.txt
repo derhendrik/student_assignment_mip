@@ -1,0 +1,17 @@
+### Student Assignment ###
+Student 1 assigned to topic 10
+Student 2 assigned to topic 7
+Student 3 assigned to topic 7
+Student 4 assigned to topic 2
+Student 5 assigned to topic 10
+Student 6 assigned to topic 5
+Student 7 assigned to topic 2
+Student 8 assigned to topic 8
+Student 9 assigned to topic 5
+### Group Assignment ###
+Group 1 assigned to topic 8
+Group 2 assigned to topic 6
+Group 3 assigned to topic 1
+Group 4 assigned to topic 9
+Group 5 assigned to topic 3
+Group 6 assigned to topic 4
